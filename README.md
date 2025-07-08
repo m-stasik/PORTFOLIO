@@ -1,2 +1,1 @@
-# PORTFOLIO
-Mateusz Stasik - Software tester portfolio
+# SOFTWARE TESTER PORTFOLIO - Mateusz Stasik
