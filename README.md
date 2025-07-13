@@ -9,3 +9,7 @@ This portfolio shows what I’ve learned so far in manual testing — from creat
 ## MY PROJECTS 📋
 
 ### [Scouts Panel (DareIT QA Challenge)](https://github.com/m-stasik/zephyr-project)
+
+### [Exploratory Testing Project](https://github.com/m-stasik/exploratory-testing-project)
+
+### [SQL Learning Project](https://github.com/m-stasik/SQL---project)
