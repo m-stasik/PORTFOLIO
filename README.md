@@ -22,3 +22,14 @@ This portfolio shows what I’ve learned so far in manual testing — from creat
 - Practical software testing course (Udemy)
 - Foundations of Software Testing and Validation (Coursera)
 - 6-day HTML/CSS Marathon from GoIT
+
+## TOOLS AND TECHNOLOGIES 🛠️
+- **Jira (including Zephyr)** – widely used tool for project management and bug tracking; Zephyr is a plugin for managing test cases.
+- **TestLink** – test management tool for organizing and documenting test cases.
+- **Chrome DevTools** – built-in browser tools for debugging and inspecting web applications.
+- **Git** – version control system for managing code changes and collaboration.
+- **GitHub** – web-based platform for hosting Git repositories, code review, and collaboration.
+- **MySQL** – relational database management system for storing and querying data.
+- **Slack** – communication platform for team messaging and collaboration.
+- **Trello** – task management app using boards and cards to organize work visually.
+- **ScreenPal** – screen recording tool for creating tutorials and demonstrations.
