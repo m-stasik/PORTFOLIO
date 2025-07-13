@@ -13,3 +13,9 @@ This portfolio shows what I’ve learned so far in manual testing — from creat
 ### [Exploratory Testing Project](https://github.com/m-stasik/exploratory-testing-project)
 
 ### [SQL Learning Project](https://github.com/m-stasik/SQL---project)
+
+## COURSES 📝
+
+- Practical software testing course (Udemy)  
+- DareIT: QA Challenge - Become a Manual Tester  
+- 6-day HTML/CSS Marathon from GoIT
