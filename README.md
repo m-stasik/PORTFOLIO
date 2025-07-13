@@ -24,6 +24,7 @@ This portfolio shows what I’ve learned so far in manual testing — from creat
 - 6-day HTML/CSS Marathon from GoIT
 
 ## TOOLS AND TECHNOLOGIES 🛠️
+
 - **Jira (including Zephyr)** – widely used tool for project management and bug tracking; Zephyr is a plugin for managing test cases.
 - **TestLink** – test management tool for organizing and documenting test cases.
 - **Chrome DevTools** – built-in browser tools for debugging and inspecting web applications.
@@ -33,3 +34,15 @@ This portfolio shows what I’ve learned so far in manual testing — from creat
 - **Slack** – communication platform for team messaging and collaboration.
 - **Trello** – task management app using boards and cards to organize work visually.
 - **ScreenPal** – screen recording tool for creating tutorials and demonstrations.
+
+## TECH SKILLS ⚙️
+
+- Familiarity with ISTQB Foundation Level syllabus
+- Manual software testing
+- Test case design
+- Bug tracking and reporting
+- Basic SQL
+- Basic HTML/CSS
+- Exploring JavaScript
+- Experience with test management tools
+- Version control basics
