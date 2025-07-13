@@ -16,6 +16,9 @@ This portfolio shows what I’ve learned so far in manual testing — from creat
 
 ## COURSES 📝
 
-- Practical software testing course (Udemy)  
 - DareIT: QA Challenge - Become a Manual Tester  
+- ISTQB Foundation Level (CTFL) V4.0 + Practice Exams - 2025 (Udemy)
+- The Complete 2025 Software Testing Bootcamp (Udemy)
+- Practical software testing course (Udemy)
+- Foundations of Software Testing and Validation (Coursera)
 - 6-day HTML/CSS Marathon from GoIT
