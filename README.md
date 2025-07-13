@@ -2,9 +2,9 @@
 
 ## ABOUT ME
 
-Hey! I’m Mateusz. I really enjoy apps that make everyday life simpler and smoother — and that’s why I’m diving into software testing. I want to make sure the tools we use work without hiccups and help people get things done easily.  
+Hi! I’m Mateusz  — I really enjoy apps that make everyday life easier and more efficient. I’m currently transitioning into a career as a software tester because I care deeply about ensuring technology works smoothly and reliably. I’m motivated to contribute to making digital products better, more intuitive, and genuinely helpful for users. My background and curiosity drive me to find bugs, improve user experience, and help deliver flawless software.
 
-This portfolio shows what I’ve learned so far in manual testing — from creating test cases to reporting bugs and working with SQL. I’m excited to keep growing my skills and help deliver better, more reliable software.
+This portfolio shows what I’ve learned so far in manual testing — from creating test cases to reporting bugs and working with SQL.
 
 ## MY PROJECTS 📋
 
