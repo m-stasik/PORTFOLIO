@@ -46,3 +46,19 @@ This portfolio shows what I’ve learned so far in manual testing — from creat
 - Exploring JavaScript
 - Experience with test management tools
 - Version control basics
+
+## SOFT SKILLS 🙆‍♂️
+
+- Team player with strong communication skills  
+- Independent and responsible  
+- Problem solving and analytical thinking  
+- Fast learner with a proactive attitude  
+- Precision and strong attention to quality  
+- Good time management and organizational skills  
+- Critical thinking and ability to think outside the box  
+- Ability to quickly learn new tools, systems, and processes  
+- Motivated and eager for self-development  
+- Adaptability to changing environments  
+- Patience and perseverance in problem-solving  
+- Curiosity and willingness to ask questions  
+- Attention to detail  
